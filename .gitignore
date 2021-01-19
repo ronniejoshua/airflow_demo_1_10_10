@@ -1,0 +1,8 @@
+.local
+.idea
+data
+logs
+__pycache__/
+.vscode
+logs
+airflow.db

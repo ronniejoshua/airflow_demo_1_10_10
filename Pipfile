@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+apache-airflow = {extras = ["gcp", "sentry", "statsd"], version = "==1.10.10"}
+cryptography = "==2.9.2"
+pyspark = "==2.4.5"
+
+[requires]
+python_version = "3.7"

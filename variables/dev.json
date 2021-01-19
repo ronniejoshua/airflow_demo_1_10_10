@@ -1,0 +1,5 @@
+{
+  "project": "arched-album-245206",
+  "landing_bucket": "rj-aa-logistics-landing-bucket",
+  "backup_bucket": "rj-aa-logistics-backup-bucket"
+}
